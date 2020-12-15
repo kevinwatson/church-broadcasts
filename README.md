@@ -90,9 +90,30 @@ A: Most chapels weren't designed for broadcasting, for the following reasons (no
 
 **Q: How do I balance the needs of those in person vs the needs of those in attendance?**
 
-**Q: If I had to choose sound or video, which would I choose?**
+A: Here are a few ideas
+
+For home viewers:
+
+1. Minimize the number of times that you adjust the camera after the stream has started. Professional cameras have presets and can make smooth adjustments. Not so with most chapel setups. The movement can be disorienting for those watching at home.
+1. Start the live stream a few minutes before the meeting start time to allow the home viewers to hear the prelude music
+1. When the meeting ends, wait one or two seconds before stopping the stream - clicking the button too early can cut off the last words of the speaker
+1. Frame the video so that the speaker is front and center
+1. If there are windows behind the podium, frame the speaker so that the windows are not visible, otherwise you may be broadcasting a silhouette of the speaker
+1. Broadcast the sound that comes from the building's sound system
+1. Set the audio level so that the bar occasionally goes into the red, and often goes into the yellow
+
+For in person viewers:
+
+1. If the chapel has windows behind the podium, usually more natural sunlight is better for those in attendance.
+1. Minimize the number of times you walk up to make adjustments to the camera or click buttons on the laptop.
+
+**Q: If I had to choose better sound or better video, which would I choose?**
+
+A: Choose sound. The speaker rarely moves, and people viewing the broadcast notice choppy sound more than they notice dropped frames during a talk.
 
 **Q: Why YouTube? Why not use Zoom?**
+
+A: YouTube can be played on a number of devices, from smartphones to tablets to computers, even smart TVs. Zoom is restricted to mobile devices and computers, unless the user has the know how to plug their computer into their TV. Free Zoom accounts have a 40 minute restriction, which if you start the meeting a few minutes early, may not be enough time. A paid Zoom account will also be needed to broadcast the stream in presentation mode (where users can't enable their microphones and cameras).
 
 **Q: Should I add a light to highlight the speaker's face?**
 
