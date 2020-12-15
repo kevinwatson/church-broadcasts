@@ -8,11 +8,7 @@ Notes on broadcasting non-interactive church meetings
 
 ### Hardware
 
-#### Parts List
-
-## Weekly Setup
-
-### Hardware
+Various hardware will work for the broadcast. Use whatever is available. Here's the parts list with links for hardware we use in our broadcasts.
 
 * [AmazonBasics 60-Inch Lightweight Tripod](https://www.amazon.com/dp/B005KP473Q)
 * [Amcrest 1080P Webcam with Microphone](https://www.amazon.com/dp/B088TT8HVY)
@@ -20,10 +16,14 @@ Notes on broadcasting non-interactive church meetings
 * Laptop
 * Wired network connection (often the WiFi connection is saturated during the meeting because of all of the congragation's connected devices)
 
-#### Location
+## Weekly Setup
 
-* Frame the speaker's mouth in the middle of the frame
+Because our hardware isn't permanently mounted, I run through a checklist before starting the stream.
+
+### Camera Location
+
 * For cameras without a focus (like a webcam), place the tripod and camera in front of the podium
+* Frame the speaker's mouth in the middle of the frame
 
 ### Software
 
