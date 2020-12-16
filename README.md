@@ -6,6 +6,19 @@ Notes on broadcasting non-interactive church meetings
 
 ### YouTube
 
+We decided to use YouTube for the folowing reasons
+
+* Accessible on almost any device
+* Live streams can be scheduled in advance
+* Live streams can be marked as unlisted
+* Comments can be disabled
+* It's free
+
+There are disadvantages, though
+
+* We need to remember to delete the recording after the live stream
+* Advertisements show if the viewer is on a computer
+
 ### Hardware
 
 Various hardware will work for the broadcast. Use whatever is available. Here's the parts list with links for hardware we use in our broadcasts.
@@ -117,6 +130,11 @@ A: YouTube can be played on a number of devices, from smartphones to tablets to 
 
 **Q: Should I add a light to highlight the speaker's face?**
 
+A: I've been asked if there's anything we can do to light up the user's face and get rid of the dark eye shadows, but so far I haven't been able to come up with a solution. The best solution would be to have brighter lights shining down from the ceiling. I could hang a light below the webcam on the tripod, but that would highlight the speaker's next and wash out their other facial features. Mounting a light above the tripod would help, but also block the congregation's view of the speaker. Another thing is that if there was a light right in front of them, I think it will be a distraction to the speaker and they will avoid looking straight ahead and would squint. 🤷‍♂️
+
 ## Links
 
+Here are a couple of links with additional info (and where I got some of my ideas)
+
 * https://github.com/TechnoSwiss/broadcast_pi
+* https://www.youtube.com/watch?v=VetZu8OwHOQ
