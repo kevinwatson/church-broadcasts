@@ -18,6 +18,7 @@ There are disadvantages, though
 
 * We need to remember to delete the recording after the live stream
 * Advertisements show if the viewer is on a computer
+* The URL is different every week
 
 ### Hardware
 
