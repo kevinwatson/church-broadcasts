@@ -49,15 +49,16 @@ We've found that https://obsproject.com is a great option for broadcasting the m
 
 If you share the hardware and laptop with other congregations that attend in the same building, there are a number of items that need to be checked before starting the live stream. Here's a checklist of those items.
 
-1. Set stream key
+1. Set the YouTube stream key
 1. Check that all of the cables are plugged in tight
 1. Check video input
-   1. If the video isn’t working, double click video capture device in the sources panel and choose the hd264 webcam USB from the drop down
+   1. If the video isn’t working, double click video capture device in the sources panel and choose the hd264 webcam USB option from the drop down
 1. Check audio input
    1. Turn on the main sound system next to the bishop's chair
-   1. Tap the microphone and I f sound isn’t coming through the microphone, Double click audio input capture in the sources panel and choose the usb audio source from the drop down
+   1. Tap the microphone and if sound isn’t coming through the microphone, double click audio input capture in the sources panel and choose the usb audio source from the drop down
+   1. Set the audio mixer slider almost all of the way to the right, so that when they’re speaking, it often goes in the yellow area but rarely in the red
 1. Check video settings
-   1. Base resolution: 1280x720 (anything higher will require more bandwidth and possibly dropped frames)
+   1. Base resolution: 1280x720 (anything higher will require more bandwidth and possibly cause dropped frames)
 1. Start stream
 1. Open link on separate device like your phone
 
@@ -70,7 +71,7 @@ Only when the laptop is shared among congregations
    1. Remove the stream key
    1. Put the computer in sleep mode
 
-And last but not least, delete the video afterwards. YouTube live streams are automatically recorded and should be deleted.
+And last but not least, delete the video. YouTube live streams are automatically recorded and should be deleted as soon as possible.
 
 ## Frequently Asked Questions
 
@@ -109,7 +110,7 @@ A: Here are a few ideas
 For home viewers:
 
 1. Minimize the number of times that you adjust the camera after the stream has started. Professional cameras have presets and can make smooth adjustments. Not so with most chapel setups. The movement can be disorienting for those watching at home.
-1. Start the live stream a few minutes before the meeting start time to allow the home viewers to hear the prelude music
+1. Start the live stream a few minutes before the meeting start time to allow the home viewers to hear the prelude music and give yourself enough time to check the stream before the meeting starts
 1. When the meeting ends, wait one or two seconds before stopping the stream - clicking the button too early can cut off the last words of the speaker
 1. Frame the video so that the speaker is front and center
 1. If there are windows behind the podium, frame the speaker so that the windows are not visible, otherwise you may be broadcasting a silhouette of the speaker
@@ -118,8 +119,8 @@ For home viewers:
 
 For in person viewers:
 
-1. If the chapel has windows behind the podium, usually more natural sunlight is better for those in attendance.
-1. Minimize the number of times you walk up to make adjustments to the camera or click buttons on the laptop.
+1. If the chapel has windows behind the podium, usually more natural sunlight is better for those in attendance
+1. Minimize the number of times you make adjustments to the camera to avoid distracting members of the congregation
 
 **Q: If I had to choose better sound or better video, which would I choose?**
 
