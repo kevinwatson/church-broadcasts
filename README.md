@@ -6,7 +6,7 @@ Notes on broadcasting non-interactive church meetings
 
 ### YouTube
 
-We decided to use YouTube for the folowing reasons
+We decided to use YouTube for the following reasons
 
 * Accessible on almost any device
 * Live streams can be scheduled in advance
