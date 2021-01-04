@@ -128,11 +128,13 @@ A: Choose sound. The speaker rarely moves, and people viewing the broadcast noti
 
 **Q: Why YouTube? Why not use Zoom?**
 
-A: YouTube can be played on a number of devices, from smartphones to tablets to computers, even smart TVs. Zoom is restricted to mobile devices and computers, unless the user has the know how to plug their computer into their TV. Free Zoom accounts have a 40 minute restriction, which if you start the meeting a few minutes early, may not be enough time. A paid Zoom account will also be needed to broadcast the stream in presentation mode (where users can't enable their microphones and cameras).
+A: YouTube can be played on a number of devices, from smartphones to tablets to computers, even smart TVs. Zoom is restricted to mobile devices and computers, unless the user has the know how to plug their computer into their TV. Free Zoom accounts have a 40 minute restriction, which if you start the meeting a few minutes early, may not be enough time. A paid Zoom account will be needed to broadcast the stream in presentation mode (where users can't enable their microphones and cameras and interrupt other viewers).
 
 **Q: Should I add a light to highlight the speaker's face?**
 
 A: I've been asked if there's anything we can do to light up the user's face and get rid of the dark eye shadows, but so far I haven't been able to come up with a solution. The best solution would be to have brighter lights shining down from the ceiling. I could hang a light below the webcam on the tripod, but that would highlight the speaker's next and wash out their other facial features. Mounting a light above the tripod would help, but also block the congregation's view of the speaker. Another thing is that if there was a light right in front of them, I think it will be a distraction to the speaker and they will avoid looking straight ahead and would squint. 🤷‍♂️
+
+Update: On 1/3/2021 we experimented with an LED light attached to the tripod before the meeting started. I attached it directly below the webcam. While watching the laptop screen, I turned the light on and noticed that it didn't make much of a difference - I could barely see a difference when the light was turned on. It was too far away to make a difference. The shadows remained. The person behind the podium said it was too bright and distracting. Conclusion: lights attached to the tripod aren't going to work. The next thing we could try is to replace the existing flood lights in the ceiling with brighter lights.
 
 ## Links
 
