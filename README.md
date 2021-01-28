@@ -45,12 +45,15 @@ Because our hardware isn't permanently mounted, I run through a checklist before
 
 We've found that https://obsproject.com is a great option for broadcasting the meeting. It can stream directly to YouTube and other online services.
 
+## Running the Meeting
+
 #### Before the meeting starts
 
 If you share the hardware and laptop with other congregations that attend in the same building, there are a number of items that need to be checked before starting the live stream. Here's a checklist of those items.
 
 1. Set the YouTube stream key
 1. Check that all of the cables are plugged in tight
+1. Disable WiFi if an ethernet connection is available
 1. Check video input
    1. If the video isn’t working, double click video capture device in the sources panel and choose the hd264 webcam USB option from the drop down
 1. Check audio input
