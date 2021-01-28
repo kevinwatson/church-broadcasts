@@ -93,7 +93,8 @@ Add text sources to the Sources dock. Adding a textbox for each hymn on the meet
 1. Select `Create new` and type something like `Hymn 1` (`Hymn 2`, etc)
 1. Enter something like `Hymn 123` in the text box
 1. Check the Outline checkbox
-1. Repeat the steps above as many times as necessary
+1. Repeat the steps above as many times as necessary, once for each hymn on the agenda
+1. Click and drag the text sources so they are in the correct order (e.g. `Hymn 1` should be above `Hymn 2` and both should be above the `video capture device` source)
 
 Set the position and size
 
