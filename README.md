@@ -76,6 +76,46 @@ Only when the laptop is shared among congregations
 
 And last but not least, delete the video. YouTube live streams are automatically recorded and should be deleted as soon as possible.
 
+### Additional Features
+
+There are things we can do to enhance the broadcast. One of these things is showing additional information on the screen at specific times.
+
+#### Hymns
+
+Showing the hymn numbers is a way to enhance the experience and help viewers stay engaged with the broadcast. The hymn numbers are visible in the top-right corner of our broadcasts, but on smaller screens the numbers are hard to read. By showing the hymn number near the bottom of the screen in a large font, we can help viewers participate from home.
+
+##### Setup
+
+Add text sources to the Sources dock. Adding a textbox for each hymn on the meeting agenda makes it easy to set both before the meeting starts.
+
+1. Click the `+` button on the Sources dock
+1. Click `Text (FreeType 2)`
+1. Select `Create new` and type something like `Hymn 1` (`Hymn 2`, etc)
+1. Enter something like `Hymn 123` in the text box
+1. Check the Outline checkbox
+1. Repeat the steps above as many times as necessary
+
+Set the position and size
+
+1. Click the hymn source in the Sources dock
+1. Set the position and size of the box by moving the highlighted text box
+1. Click the 👁 (eyeball) icon on the hymn source to hide the text
+1. Click on the second hymn source and move and resize until it is on top of the first hymn source
+1. Repeat if needed
+
+When setting up for a meeting, if the hymn sources are already set, you can click on the hymn source and change the hymn number in the Sources Toolbar (click View -> Sources Toolbar if it's not visible).
+
+Before the meeting starts
+
+1. Set the hymn numbers
+1. Check the positioning
+1. Hide the hymn numbers by clicking the 👁 icon
+
+During the meeting
+
+1. When each hymn starts, click the 👁 on the appropriate line to show the text
+1. When the hymn ends, click the 👁 on the appropriate line to hide the text
+
 ## Frequently Asked Questions
 
 **Q: Why not use the laptop camera?**
