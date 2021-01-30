@@ -78,7 +78,7 @@ And last but not least, delete the video. YouTube live streams are automatically
 
 ### Additional Features
 
-There are things we can do to enhance the broadcast. One of these things is showing additional information on the screen at specific times.
+There are things we can do to enhance the broadcast. One of these is to show information on the screen at specific times during the meeting.
 
 #### Hymns
 
