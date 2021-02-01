@@ -182,6 +182,10 @@ A: I've been asked if there's anything we can do to light up the user's face and
 
 Update: On 1/3/2021 we experimented with an small LED light in front of the tripod before the meeting started. I held it directly below the webcam. While watching the laptop screen, I turned the light on and noticed that it didn't help - I could barely see a difference when the light was turned on. The shadows remained. There was still too much light behind the speaker coming from the ceiling lights and the natural light from the windows on both sides of the rostrum. The person behind the podium said it was too bright and distracting. Conclusion: lights attached to the tripod aren't going to work. Much brighter lights need to be set up if we want to improve the lighting on the speaker's face.
 
+**Q: Can you put the words to the hymns on the screen instead of the hymn number?**
+
+A: Yes, it's possible. There isn't a scroll option for the text box, so each hymn, line by line, would need to be copied and pasted into the sources panel, organized, and hidden. During the hymn, the operator would need to unhide the line while staying in rhythm with the chorister. While this might be possible with enough setup time, there is another ward right before ours that only allows about 15 minutes of setup time before our organist starts playing and we start the stream. In other words, there isn't enough time to set this up before the meeting starts.
+
 ## Links
 
 Here are a couple of links with additional info (and where I got some of my ideas)
