@@ -123,7 +123,7 @@ During the meeting
 
 **Q: Why not use the laptop camera?**
 
-A: Even in high-end laptops, the built-in camera is restricted to a small and narrow bezel and thus has a smaller sensor and lense than you'll find in a $200 smart phone
+A: Laptop cameras are great for Zoom meetings where the camera is sitting at about eye level about a foot or two away. They're designed with a very small sensor and lens so that they will fit into a narrow and flat bezel. Here are two reasons I wouldn't use the laptop camera: 1) These cameras are designed for close ups and 2) it's difficult to position the camera correctly when the entire laptop needs to be pointed at the speaker.
 
 **Q: Why not use a smart phone? It has a built in camera and microphone.**
 
