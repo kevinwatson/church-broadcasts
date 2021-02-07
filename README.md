@@ -20,7 +20,7 @@ There are disadvantages, though
 * Advertisements show if the viewer is on a computer
 * The URL is different every week
 
-For specific YouTube studio settings, see [YouTube](YOUTUBE.md)
+For specific YouTube studio settings, see my [YouTube settings](YOUTUBE.md) page.
 
 ### Hardware
 
