@@ -20,6 +20,8 @@ There are disadvantages, though
 * Advertisements show if the viewer is on a computer
 * The URL is different every week
 
+For specific YouTube studio settings, see [YouTube](YOUTUBE.md)
+
 ### Hardware
 
 Various hardware will work for the broadcast. Use whatever is available. Here's the parts list with links for hardware we use in our broadcasts.
