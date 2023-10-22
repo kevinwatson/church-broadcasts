@@ -28,9 +28,9 @@ Various hardware will work for the broadcast. Use whatever is available. Here's 
 
 * [AmazonBasics 60-Inch Lightweight Tripod](https://www.amazon.com/dp/B005KP473Q)
 * [Amcrest 1080P Webcam with Microphone](https://www.amazon.com/dp/B088TT8HVY)
-* [USB 2.0 Digital Audio Capture Card](https://www.amazon.com/dp/B019T9KS04)
+* [USB 2.0 Digital Audio Capture Card](https://www.amazon.com/dp/B019T9KS04) - used to capture audio from the building's sound system
 * Laptop
-* Wired network connection (often the WiFi connection is saturated during the meeting because of all of the congragation's connected devices)
+* Wired network connection (often the WiFi connection is saturated during the meeting because of all of the congregation's connected devices)
 
 ## Weekly Setup
 
